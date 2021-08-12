@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>01n.png</file>
+        <file>03n.png</file>
+        <file>04n.png</file>
+        <file>09n.png</file>
+        <file>10n.png</file>
+        <file>11n.png</file>
+        <file>13n.png</file>
+        <file>50n.png</file>
+        <file>background.png</file>
+        <file>background1.png</file>
+        <file>02n.png</file>
+        <file>cities.json</file>
+        <file>city.list.json</file>
+        <file>city.txt</file>
+        <file>iller.json</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
